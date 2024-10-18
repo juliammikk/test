@@ -1,0 +1,6 @@
+[submodule "Timelines"]
+	path = Timelines
+	url = git@github.com:jakub-maly/Timelines.git
+[submodule "timelines-tool"]
+	path = timelines-tool
+	url = git@github.com:jakub-maly/Timelines.git
